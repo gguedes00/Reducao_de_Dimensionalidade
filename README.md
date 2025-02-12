@@ -9,34 +9,34 @@ Projeto desenvolvido como desafio técnico da **Digital Innovation One (DIO)**, 
 ### **Implementação Principal (Python Puro)**
 
 - ✅ Leitura direta de arquivos BMP 24 bits
-- 
+  
 - ✅ Conversão matemática para escala de cinza (PGM P5)
-- 
+  
 - ✅ Binarização por limiarização (PGM P2)
-- 
+  
 - ✅ Processamento 100% em código nativo Python
 
 ### **Conversão Opcional para PNG**
 
 - ⚙️ Requer ImageMagick instalado
-- 
+  
 - ⚙️ Gera arquivos PNG para visualização facilitada
 
 ## 📋 Pré-requisitos
 
 ### **Mínimos**
 - Python 3.8+ (interpretador padrão)
-- 
+  
 - Qualquer editor de texto/IDE
 
 ### **Opcional**
 - ImageMagick (apenas para conversão final)
-- 
+
   - [Download oficial](https://imagemagick.org/script/download.php)
 
-⚙️ Como Usar
 
 ### Passo a Passo
+
 1. **Preparar a imagem**:
    - Converta sua imagem para BMP 24 bits (usando Paint, Photoshop, etc)
    - Renomeie para `entrada.bmp` e coloque na pasta do projeto
@@ -53,34 +53,9 @@ binario.pgm (preto e branco)
 
 Conversão para PNG (Opcional):
 
-cmd
-Copy
-python converter_imagem.py
-Saídas geradas:
-
-cinza.png
-
-binario.png
-
-### Passo a Passo
-1. **Preparar a imagem**:
-   - Converta sua imagem para BMP 24 bits (usando Paint, Photoshop, etc)
-   - Renomeie para `entrada.bmp` e coloque na pasta do projeto
-
-2. **Conversão para PGM**:
    ```cmd
-   python tira_cor.py
-Saídas geradas:
+  python converter_imagem.py
 
-cinza.pgm (tons de cinza)
-
-binario.pgm (preto e branco)
-
-Conversão para PNG (Opcional):
-
-cmd
-Copy
-python converter_imagem.py
 Saídas geradas:
 
 cinza.png
