@@ -51,9 +51,10 @@ cinza.pgm (tons de cinza)
 
 binario.pgm (preto e branco)
 
+
 3. **Conversão para PNG (Opcional)**:
    ```cmd
-  python converter_imagem.py
+   python converter_imagem.py
 
 **Saídas geradas**:
 
