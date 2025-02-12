@@ -45,30 +45,30 @@ Projeto desenvolvido como desafio técnico da **Digital Innovation One (DIO)**, 
    ```cmd
    python tira_cor.py
    
-Saídas geradas:
+**Saídas geradas**:
 
 cinza.pgm (tons de cinza)
 
 binario.pgm (preto e branco)
 
-Conversão para PNG (Opcional):
-
+3. **Conversão para PNG (Opcional)**:
    ```cmd
   python converter_imagem.py
 
-Saídas geradas:
+**Saídas geradas**:
 
 cinza.png
 
 binario.png
 
-⚙️ Configuração do ImageMagick
+
+## ⚙️ Configuração do ImageMagick
 
 Edite converter_imagem.py com o caminho da sua instalação:
 
 caminho_magick = r"C:\SEU\CAMINHO\ImageMagick-7.1.1-Q16-HDRI\magick.exe" # ← Atualize aqui!
 
-🏆 Contexto do Desafio
+## 🏆 Contexto do Desafio
 Este projeto foi desenvolvido como parte do Bootcamp [Nome do Bootcamp] da Digital Innovation One, com os seguintes requisitos principais:
 
 Implementar conversão de cores usando apenas Python padrão
