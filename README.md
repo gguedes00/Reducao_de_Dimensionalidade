@@ -36,7 +36,7 @@ Entregar solução autossuficiente
 ## 📋 Pré-requisitos
 
 ### **Mínimos**
-- Python 3.8+ (interpretador padrão)
+- Python
   
 - Qualquer editor de texto/IDE
 
