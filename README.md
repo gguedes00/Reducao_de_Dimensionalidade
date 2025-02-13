@@ -1,8 +1,19 @@
-# Conversor de Imagens BMP para PGM 🖼️➡️⚫⚪
+# Conversor de Imagens   🖼️➡️⚫⚪
 
 [![DIO Badge](https://hermes.digitalinnovation.one/assets/diome/logo.svg)](https://web.dio.me)
 
-Projeto desenvolvido como desafio técnico da **Digital Innovation One (DIO)**, implementando conversão de imagens **sem uso de bibliotecas ou ferramentas externas**.
+
+## 🏆 Contexto do Desafio
+Este projeto foi desenvolvido como parte do **Bootcamp BairesDev - Machine Learning Practitioner da Digital Innovation One (DIO)**, com os seguintes requisitos principais:
+
+Implementar conversão de cores usando apenas Python padrão
+
+Manipulação manual de pixels
+
+Proibição total de bibliotecas externas
+
+Entregar solução autossuficiente
+
 
 ## 🛠️ Funcionalidades
 
@@ -69,15 +80,3 @@ Edite converter_imagem.py com o caminho da sua instalação:
 
 caminho_magick = r"C:\SEU\CAMINHO\ImageMagick-7.1.1-Q16-HDRI\magick.exe" # ← Atualize aqui!
 
-## 🏆 Contexto do Desafio
-Este projeto foi desenvolvido como parte do Bootcamp [Nome do Bootcamp] da Digital Innovation One, com os seguintes requisitos principais:
-
-Implementar conversão de cores usando apenas Python padrão
-
-Manipulação manual de pixels
-
-Proibição total de bibliotecas externas
-
-Entregar solução autossuficiente
-
-<p align="center"> <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="200" alt="Logo DIO"> </p> ```
